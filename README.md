@@ -1,10 +1,6 @@
-# 🛒Modern E-Commerce Website
+# 🛒E-Commerce Website
 
 A fully responsive e-commerce website with modern UI/UX design, featuring product listings, shopping cart functionality, and seamless navigation across multiple pages.
-
-## Live Demo
-
-➡️ [View Live Demo](https://responsive-ecommerce-website-rho.vercel.app/)  
 
 ## Features
 
